@@ -1,0 +1,3 @@
+[submodule "hormozi-brain"]
+	path = hormozi-brain
+	url = https://github.com/antonio-clicktoclose/hormozi-claude-code-brain.git
